@@ -17,4 +17,4 @@ I am currently a PhD candidate at the Urban Analytics Lab, NUS. My research cent
 
 - **Decoding characteristics of building facades using street view imagery and vision-language model** presented at the *19th International Conference on Computational Urban Planning and Urban Management, 2025* [[Paper Link]](https://osf.io/abyqh/files/osfstorage/685400519a7097303ec89a95)
 
-- **OpenFACADES: an open framework for architectural caption and attribute data enrichment via street view imagery** (Under review) [[Paper Link]](https://arxiv.org/abs/2504.02866)
+- **OpenFACADES: an open framework for architectural caption and attribute data enrichment via street view imagery** in *ISPRS Journal of Photogrammetry and Remote Sensing* [[Paper Link]](https://doi.org/10.1016/j.isprsjprs.2025.10.014)
